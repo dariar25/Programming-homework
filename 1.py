@@ -4,4 +4,3 @@ Type "help", "copyright", "credits" or "license()" for more information.
 date=T.split ("-")
 print (date)
 print (date[2] + "." +  date [1] + "." + date[0])
->>> 
